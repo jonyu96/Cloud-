@@ -27,3 +27,4 @@ Purpose of this project is to practice iOS development. Future deployment of thi
 
 ## License 
 [GNU GPLv3](https://github.com/jonyu96/Cloud-/blob/master/LICENSE.txt) @ Jonathan J Yu
+Icons from [FLATICON](https://www.flaticon.com/categories/weather). Credit for each specific icon by author will be documented in a separate file after implementation of Version 2.0. 
