@@ -26,4 +26,4 @@ A simple iOS weather app with focus on a minimal and beautiful design. It gather
 Purpose of this project is to practice iOS development. Future deployment of this app will be considered. If you have any ideas or tips (with design, code, or etc.), feel free to reach out to me. Request to collaborate or any contributions are welcome. 
 
 ## License 
-[GNU GPLv3] @ Jonathan J Yu
+[GNU GPLv3](https://github.com/jonyu96/Cloud-/blob/master/LICENSE.txt) @ Jonathan J Yu
